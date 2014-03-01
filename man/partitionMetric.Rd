@@ -46,7 +46,7 @@ referenced below.
 David Weisman and Dan Simovici, 
   Several Remarks on the Metric Space of Genetic Codes.
   	\emph{International
-Journal of Data Mining and Bioinformatics}, in press.
+Journal of Data Mining and Bioinformatics}, 2012(6).
 }
 \author{
 David Weisman, Dan Simovici
